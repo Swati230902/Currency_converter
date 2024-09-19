@@ -1,7 +1,7 @@
 # Currency Converter 💱🌍
 A Currency Converter application built with HTML, CSS, and JavaScript that allows users to easily convert between different currencies with real-time exchange rates.
 
-![Currency Converter](images/convertor.png)
+![Currency Converter](image/converter.png)
 
 
 ## Key Features:
